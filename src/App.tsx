@@ -1,9 +1,11 @@
 import React from 'react';
+import { SiteList } from './components/SiteList';
 
-const App: React.FC = () => {
+const App = () => {
   return (
-    <div>
-      <h2>Hello World</h2>
+    <div className="container">
+      <h1 className="center logo">BDIX Sites List</h1>
+      <SiteList />
     </div>
   );
 };

@@ -1,3 +1,3 @@
 # BDIX List
 
-A collection of BDIX servers.
+A collection of BDIX sites.
